@@ -96,6 +96,7 @@ git clone https://github.com/Memonul-Islam-Tuhin/ejs-adding-programming-language
 
 ```bash
 cd ejs-adding-programming-language-app
+code .
 ```
 
 ### 3️⃣ Install Dependencies
